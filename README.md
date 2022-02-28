@@ -1,8 +1,4 @@
-#Głębokie modele uczenia maszynowego
-
-__DAN, W8, PWr__
-
-__LSTM, RNN, GRU - 2018__
+# __LSTM, RNN, GRU - 2018__
 
 This program is a simple comparasion of recurrent neural networks (RNN, GRU, LSTM) 
 implemented in TensorFlow framework. They base on on  Baby Names from Social Security 
